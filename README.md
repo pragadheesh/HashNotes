@@ -12,7 +12,7 @@ Description :
 
 Features :
 
-	Save a note under any #-Topic
+	Save notes under any #-Topic
 	List various #-Topics
 	Search notes (either based on notes content or based on the #-topic)
 	Delete a note
